@@ -1,0 +1,6 @@
+
+*.plist
+hello/hello.dSYM/Contents/Resources/DWARF/hello
+*.o
+hello/hello
+.DS_Store
